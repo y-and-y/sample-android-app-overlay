@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99a6b60628b5ca4219f45c168180ab68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/861d4d7960948169422b40da40f2329a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8fbf4cf70eab396747c2dafd31286d1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/377f9858e4a5b355b9bb41b54031b765/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bd9ff736d4784dce76ba229f05d5b03f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1c450c7535a8e50722071953fb4f93e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2003a8b9297c5229bb5f792fe8a76352/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b0ba0aed7c2fda0e71c3c310865f735d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/305b3cc62dd052801402cf85cd8dbe00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b46d8d18b081a0a83ca42e44052dcd03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/871f5a7d749585a4694290f81271e3c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/936294f86c5c8dcc975997e93377401e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f5fb07b6728ae0cffb2fe96ac1291caa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/963269f539b047bd8cd5fdc57e462e6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9097b1052922cef48cf25098a7fbb9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48c81485e070107c95eadc03bfb41a93/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/538b5db1a612b110e71f7a8a1ee4d2c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1e716487e60cbacb00fafdb3f658c3c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e8e1120a7371853081accb8855da04cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4e55170f927a79514bd30ef2e46a79e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/34b1a032f703412abc66504f2b4bab48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6da7f141ab07a9862d083669f89266/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8d93f8f08a569c0781088f5da484d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b830cb786b7a3d7cf5cc1c49bea0939/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f850e35984397c9fde4dfde8d27672f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f61d78a7b8671d429e955b864fa3e1e0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:3:11-59
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/861d4d7960948169422b40da40f2329a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/861d4d7960948169422b40da40f2329a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48c81485e070107c95eadc03bfb41a93/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48c81485e070107c95eadc03bfb41a93/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:13:13-44
+service#com.y_and_y.sample_android_app_overlay.FloatingAppService
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:14:9-54
+	android:name
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:14:18-52
+activity#com.y_and_y.sample_android_app_overlay.MainActivity
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99a6b60628b5ca4219f45c168180ab68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99a6b60628b5ca4219f45c168180ab68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/861d4d7960948169422b40da40f2329a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/861d4d7960948169422b40da40f2329a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8fbf4cf70eab396747c2dafd31286d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8fbf4cf70eab396747c2dafd31286d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/377f9858e4a5b355b9bb41b54031b765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/377f9858e4a5b355b9bb41b54031b765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bd9ff736d4784dce76ba229f05d5b03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bd9ff736d4784dce76ba229f05d5b03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1c450c7535a8e50722071953fb4f93e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1c450c7535a8e50722071953fb4f93e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2003a8b9297c5229bb5f792fe8a76352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2003a8b9297c5229bb5f792fe8a76352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b0ba0aed7c2fda0e71c3c310865f735d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b0ba0aed7c2fda0e71c3c310865f735d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/305b3cc62dd052801402cf85cd8dbe00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/305b3cc62dd052801402cf85cd8dbe00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b46d8d18b081a0a83ca42e44052dcd03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b46d8d18b081a0a83ca42e44052dcd03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/871f5a7d749585a4694290f81271e3c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/871f5a7d749585a4694290f81271e3c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/936294f86c5c8dcc975997e93377401e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/936294f86c5c8dcc975997e93377401e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f5fb07b6728ae0cffb2fe96ac1291caa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f5fb07b6728ae0cffb2fe96ac1291caa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/963269f539b047bd8cd5fdc57e462e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/963269f539b047bd8cd5fdc57e462e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9097b1052922cef48cf25098a7fbb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d9097b1052922cef48cf25098a7fbb9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/38e7951b6b2f471c999e1149b9462d94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48c81485e070107c95eadc03bfb41a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48c81485e070107c95eadc03bfb41a93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/538b5db1a612b110e71f7a8a1ee4d2c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/538b5db1a612b110e71f7a8a1ee4d2c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1e716487e60cbacb00fafdb3f658c3c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1e716487e60cbacb00fafdb3f658c3c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e8e1120a7371853081accb8855da04cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e8e1120a7371853081accb8855da04cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4e55170f927a79514bd30ef2e46a79e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4e55170f927a79514bd30ef2e46a79e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/34b1a032f703412abc66504f2b4bab48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/34b1a032f703412abc66504f2b4bab48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6da7f141ab07a9862d083669f89266/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bf6da7f141ab07a9862d083669f89266/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8d93f8f08a569c0781088f5da484d6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c8d93f8f08a569c0781088f5da484d6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b830cb786b7a3d7cf5cc1c49bea0939/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1b830cb786b7a3d7cf5cc1c49bea0939/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f850e35984397c9fde4dfde8d27672f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9f850e35984397c9fde4dfde8d27672f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f61d78a7b8671d429e955b864fa3e1e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kktyu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f61d78a7b8671d429e955b864fa3e1e0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kktyu/git/sampleandroidappoverlay/yoshi/app/src/main/AndroidManifest.xml
